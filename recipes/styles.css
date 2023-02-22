@@ -1,0 +1,56 @@
+h1 {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(128, 141, 130);
+    color: rgb(128, 72, 0);
+    text-align: center;
+    text-emphasis-color: rgb(128, 72, 0);
+    text-shadow: 1px 1px 1px rgb(128, 72, 0);
+    text-transform: uppercase;
+    text-decoration: magenta;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(128, 141, 130);
+    color: rgb(128, 72, 0);
+    text-align: center;
+    text-emphasis-color: rgb(128, 72, 0);
+    text-transform: uppercase;
+    text-decoration: magenta;
+}
+
+ul {
+    text-align: center;
+}
+
+
+li {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(112, 67, 15);
+}
+
+img {
+    border: 2px solid rgb(141, 187, 135);
+    border-radius:50%;
+    box-shadow: 2px 2px 2px rgb(128, 72, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+}
+
+strong {
+    background-color: aqua;
+    color: rgb(77, 26, 26);
+}
