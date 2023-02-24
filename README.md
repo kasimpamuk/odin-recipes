@@ -1,2 +1,2 @@
-In this project practiced to create a basic page only using HTML at first
-In the next step i developed the design using CSS again for practice purposes
+In this project I practiced to create a basic page only using HTML at first. 
+In the next step I developed the design using CSS for practice purposes.
