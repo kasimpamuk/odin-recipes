@@ -6,8 +6,12 @@
 html {
     background-color: rgb(221, 219, 219);
 }
-
+::selection {
+    color: rgb(15, 16, 24);
+    background: rgb(87, 87, 47);
+  }
 h1 {
+    
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(128, 141, 130);
