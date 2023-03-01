@@ -1,7 +1,4 @@
 
-* {
-    /*border: 1px solid red;*/
-}
 
 html {
     background-color: rgb(221, 219, 219);
@@ -10,8 +7,15 @@ html {
     color: rgb(15, 16, 24);
     background: rgb(87, 87, 47);
   }
+
+.container {
+    display: flex;
+}
+.container > *{
+    flex: 1;
+}
 h1 {
-    
+    flex: 1;
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(128, 141, 130);
@@ -21,8 +25,7 @@ h1 {
     text-shadow: 1px 1px 1px rgb(128, 72, 0);
     text-transform: uppercase;
     text-decoration: magenta;
-    margin-right: 500px;
-    margin-left: 500px;
+
     padding: 8px;
 }
 
